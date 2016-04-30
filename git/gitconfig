@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	email = rhys@i-think22.net
+	name = Rhys Parry
